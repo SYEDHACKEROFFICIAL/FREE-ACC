@@ -47,7 +47,7 @@ Edit `config.json` to customize everything:
 
 ```json
 {
-  "app_name": "SHADOW OFFICIAL",
+  "app_name": "SYED HACKER",
   "app_tagline": "SECURE INTELLIGENCE PLATFORM",
   "app_emoji": "👑",
   "brand_color": "#667eea",
